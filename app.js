@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   if (today.getDay() === 6 || today.getDay() === 0) {
     res.send("Yay! It's the weekend!");
   } else {
-    res.send("Boo! I have to go to work!");
+    res.send("Boo! I have to go to work kid!");
   }
   res.send("Hello World!");
 });
