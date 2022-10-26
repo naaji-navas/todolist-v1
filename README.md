@@ -1,8 +1,5 @@
-#About
-A to do list
-
-pull up fast
-Feel free to contribute
+# About a to do list
+### please Feel free to contribute.
 
 
 
