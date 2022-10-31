@@ -1,8 +1,15 @@
 
-# About a to do list
-### please Feel free to contribute.
+
+# get into to do list
+### contribute towards opensources.
 Happy hacking
-Let'ss do it.
+
+
+Happy hacking.
+
+
+
+
 
 
 
